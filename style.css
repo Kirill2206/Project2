@@ -1,0 +1,150 @@
+.wrapper{
+    max-width: 1600px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.center{
+    /*margin-left: 177px;
+    margin-right: 180px; */
+    width: 100%;
+    max-width: 1243px;
+    margin: 0 auto;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Section 1 */
+
+.logo p{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 40px;
+    color: #101010;
+}
+
+.logo{
+    margin-top: 35px;
+    float: left;
+    cursor: pointer;
+}
+
+.burger{
+    float: right;
+    margin-top: 35px;
+    cursor: pointer;
+}
+
+h1{
+    font-family: 'Playfair Display';
+    font-size: 100px;
+    line-height: 100px;
+    font-weight: normal;
+    color: #101010;
+    width: 912px;
+    padding-top: 240px;
+    margin-bottom: 156px;
+    clear: both;
+}
+
+/* Section 2 */
+
+.container2 img{
+    max-width: 100%;
+    width: 100%;
+}
+
+
+/* Section 3*/
+
+.text_left hr{
+    width: 34px;
+    height: 1px;
+    background-color: #101010;
+    border: 0;
+    margin-top: 77px;
+    margin-bottom: 16px;
+}
+
+.text_left p{
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 153.7%;
+    color: #101010; 
+}
+
+.text_left{
+    width: 296px;
+    float: left;
+}
+
+.text_right p{
+    font-family: 'Playfair Display';
+    font-size: 40px;
+    line-height: 120.7%;
+    color: #101010;
+}
+
+.text_right{
+    float: right;
+    width: 820px;
+    margin-top: 66px;
+}
+
+.sub_title{
+    font-family: 'DM Sans';
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 153.7%;
+    color: #101010;
+    clear: both;
+    padding-top: 128px;
+    padding-bottom: 40px;
+}
+
+.description{
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 153.7%;
+    color: #101010;
+}
+
+/*section 4*/
+.container4{
+    padding-top: 135px;
+}
+
+
+.card hr{
+    width: 34px;
+    bottom: 1px;
+    margin-top: 31px;
+    margin-bottom: 16px;
+    background-color: #101010;
+}
+
+.card p{
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 153.7%;
+    color: #101010;
+    width: 350px;
+    clear: both;
+}
+
+.card{
+    margin-top: 54px;
+}
+
+.side_left{
+    float: left;
+}
+
+.side_right{
+    float: right;
+}
+
